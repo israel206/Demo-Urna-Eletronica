@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Demo-Urna-Eletronica" src=".github/urna.png" width="90%">
+  <img alt="Demo-Urna-Eletronica" src=".github/urna.png" width="70%">
 </p>
 
 ---
