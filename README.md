@@ -34,6 +34,8 @@ This project was developed using the following technologies:
 - [Css](https://www.w3schools.com/css/default.asp)
 - [JavaScript](https://www.w3schools.com/js/default.asp)
 
+---
+
 ## 👨‍💻 Computer: How to run
 
 Clone the project and access the folder
