@@ -40,7 +40,7 @@ Clone the project and access the folder
 
   ```bash
     # clone repository
-    $ git clone https://github.com/israel206/Demo-Formulario.git
+    $ git clone https://github.com/israel206/Demo-Urna-Eletronica.git
   ```
 
 ---
@@ -50,6 +50,7 @@ Clone the project and access the folder
 App to always remember to water your plants 🌱
 
 Demonstration project link page [Demonstration](https://israel206.github.io/Demo-Urna-Eletronica/)
+
 ---
 
 ## 📝 License
